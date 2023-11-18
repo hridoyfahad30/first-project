@@ -1,9 +1,9 @@
 export type UserName = {
-    firstName: string;
-    middleName: string;
-    lastName: string;
-  };
-  
+  firstName: string;
+  middleName: string;
+  lastName: string;
+};
+
 export type Guardian = {
   fatherName: string;
   fatherOccupation: string;
